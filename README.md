@@ -12,6 +12,7 @@
 📫 How to reach me exploresdk@gmail.com
 
 
+![Border-Separator](https://github.com/Dineshcoder0/Dineshcoder0/assets/130560471/fe2d6a77-8c3d-491f-bca0-84c7b8c47908)
 
 My Tech Stack 🚀
 
@@ -34,6 +35,7 @@ My Tech Stack 🚀
 
 
 
+![Border-Separator](https://github.com/Dineshcoder0/Dineshcoder0/assets/130560471/3a7ba55b-9943-4249-9615-04d2f4d408bf)
 
 
 
