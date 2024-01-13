@@ -1,16 +1,31 @@
-
-                                                     Hi 👋, I'm Dinesh Kumar
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
                                                      
-                                                  A passionate Full Stack Developer
+<h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
+<h3 align="center">A passionate FullStack Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🌱 I’m currently learning about Web Design
 
-👨‍💻 All of my projects are available here
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-💬 Ask me about Angular & Type Script
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
-📫 How to reach me exploresdk@gmail.com
+- 🔭 I’m currently working on **Dveloper**
 
+- 🌱 I’m currently learning **UI/UX**
+
+- 💬 Ask me about **Angular , Web**
+
+- 📫 How to reach me **exploresdk@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+</p>
 
 ![Border-Separator](https://github.com/Dineshcoder0/Dineshcoder0/assets/130560471/fe2d6a77-8c3d-491f-bca0-84c7b8c47908)
 
